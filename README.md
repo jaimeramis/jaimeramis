@@ -7,8 +7,8 @@
 <br>
 💡 &nbsp; I like to explore new technologies.<br>
 🎓 &nbsp; I’m currently learning `Python`.<br>
-✍️ &nbsp; I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/jaimeramisbarber/).<br>
-📄 &nbsp; You can visit [MY WEBSITE](https://portfoliojaimeramisbarber.netlify.app/).
+✍️ &nbsp; I’m currently open for a new `job opportunity`, this is [My Resume](https://www.linkedin.com/in/jaimeramisbarber/).<br>
+📄 &nbsp; You can visit [My Portfolio](https://portfoliojaimeramisbarber.netlify.app/).
 
 <br><br>
 ### 🛠 &nbsp;Tech Stack
