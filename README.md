@@ -24,3 +24,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://portfoliojaimeramisbarber.netlify.app/"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaimeramisbarber/"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
