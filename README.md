@@ -5,6 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - :student: I’m currently learning `Python`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/jaimeramisbarber/).
