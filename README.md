@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" width = 250px></picture>
+<picture> <img align="right" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width = 250px></picture>
 <br>
 💡 &nbsp; I like to explore new technologies.<br>
 🎓 &nbsp; I’m currently learning `Python`.<br>
