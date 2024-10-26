@@ -5,9 +5,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-💡 &nbsp; I like to explore new technologies.
-🎓 &nbsp; I’m currently learning `Python`.
-✍️ &nbsp; I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/jaimeramisbarber/).
+💡 &nbsp; I like to explore new technologies.<br>
+🎓 &nbsp; I’m currently learning `Python`.<br>
+✍️ &nbsp; I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/jaimeramisbarber/).<br>
 📄 &nbsp; You can visit [MY WEBSITE](https://portfoliojaimeramisbarber.netlify.app/).
 
 <br><br>
