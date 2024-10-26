@@ -8,6 +8,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/jaimeramisbarber/).
 - :boom: You can visit [MY WEBSITE](https://portfoliojaimeramisbarber.netlify.app/).
 
+<br><br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
